@@ -50,3 +50,4 @@ public class TelephoneDriver {
         }
     }
 }
+//java -cp Lab2/bin KI302.Melnyk.Lab2.TelephoneDriver
