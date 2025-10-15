@@ -1,0 +1,11 @@
+[LOG] A custom telephone 'iPhone 15 Pro' was created.
+[LOG] Displaying full phone info.
+[LOG] Phone screen turned ON.
+[LOG] Making a call to +380507654321. Battery level is now 95%.
+[LOG] Sending SMS to +380679876543: 'Hello from Java Lab!'. Battery level is now 93%.
+[LOG] Checked battery level: 93%.
+[LOG] Charging the phone. Battery level changed from 93% to 100%.
+[LOG] Checked screen status: ON
+[LOG] Phone screen turned OFF.
+[LOG] Checked screen status: OFF
+[LOG] Disposing phone object. Closing log file.
