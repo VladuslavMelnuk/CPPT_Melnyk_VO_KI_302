@@ -1,0 +1,11 @@
+[LOG] A custom telephone 'Samsung Galaxy S23' was created.
+[LOG] MobilePhone parameterized constructor called.
+[LOG] Phone screen turned ON.
+[LOG] Making a call to +380987654321. Battery level is now 95%.
+[LOG] Checked battery level: 95%.
+[LOG] Phone screen turned OFF.
+[LOG] Connecting to Wi-Fi network: MyHomeNetwork
+[LOG] Taking a photo with the mobile phone's camera.
+[LOG] Displaying full phone info.
+[LOG] Displayed full info for MobilePhone.
+[LOG] Disposing phone object. Closing log file.
