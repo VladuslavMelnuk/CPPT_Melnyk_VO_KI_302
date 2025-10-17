@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI302.Melnyk.Lab6","l":"Book"},{"p":"KI302.Melnyk.Lab6","l":"Dictionary"},{"p":"KI302.Melnyk.Lab6","l":"Lab6Driver"},{"p":"KI302.Melnyk.Lab6","l":"Movie"}];updateSearchResults();
